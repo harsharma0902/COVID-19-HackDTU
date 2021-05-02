@@ -1,0 +1,251 @@
+.middle-text
+{
+    font-size: 40px;
+    width: 20px;
+}
+
+.corona{
+  color: blanchedalmond;
+}
+
+h2{
+  color: #6b011f;
+}
+
+.navbar{
+    background-color: #314e52;
+}
+
+.navbar-brand{
+    color: blanchedalmond;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    top: 0; 
+    width: 100%; 
+  }
+
+.info
+{
+    position: relative;
+    margin: 0 0 0 63rem;
+    color: blanchedalmond;
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+
+.body-div {
+    background-color: teal;
+    margin: 20px 20px 50px 20px;
+    display: flex;
+  }
+  .body-div > div {
+    flex: 1; /*grow*/
+  }
+
+.jumbotron{
+    margin-top: 25px;
+    margin-right: 20px;
+    width: 700px;
+} 
+
+.btn1 {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 56;
+    -moz-border-radius: 56;
+    border-radius: 56px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn1:hover {
+    background: #378285;
+    text-decoration: none;
+  }
+
+ .main {
+    width: 10%;
+    height: 6px;
+    margin-left: auto;
+    margin-right: auto;
+    border: dotted;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+  }
+
+  .sub-heading1 {
+      margin: 50px 20px 50px 20px;
+  }
+
+  .btn2 {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #215a9e;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn2:hover {
+    background: #e6741c;
+    text-decoration: none;
+  }
+
+.who-logo{
+  float: left;
+  height: 400px;
+  margin-left: 40px;
+  margin-right: 200px;
+}
+
+.sub-heading2 {
+  margin: 50px 20px 50px 90px;
+}
+
+.guidelines{
+  height: 350px;
+  width: 300px;
+  float: right;
+  margin: 20px 20px 20px 200px;
+}
+
+.btn3 {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #215a9e;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn3:hover {
+  background: #e6741c;
+  text-decoration: none;
+}
+
+.stats{
+  float: left;
+  height: 300px;
+  width: 400px;
+  margin: 0 250px 0 50px;
+}
+
+.btn4 {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #215a9e;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn4:hover {
+  background: #e6741c;
+  text-decoration: none;
+}
+
+.sub-heading3 {
+  margin: 50px 90px 50px 30px ;
+}
+
+.vaccine{
+  margin: 20px 20px 20px 200px;
+  float: right;
+  height: 300px;
+  width: 350px;
+}
+
+.sub-heading4 {
+  margin: 60px 20px 50px 70px;
+}
+
+.btn5 {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #215a9e;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn5:hover {
+  background: #e6741c;
+  text-decoration: none;
+}
+
+.about-us{
+  background-color: teal;
+  text-align: center;
+  padding: 20px;
+  margin: 0;
+}
+
+.btn6 {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #608a5a;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn6:hover {
+  background: #d646a9;
+  text-decoration: none;
+}
+
+.conclusion{
+  text-align: center;
+  margin: 50px;
+}
+
+.motive{
+  text-align: center;
+  margin: 50px 20px 50px 20px;
+  background-color: #eaffd0;
+  padding: 40px;
+}
+
+.underline{
+  text-decoration: underline;
+}
+
+.para{
+  font-family: 'Akaya Kanadaka', cursive;
+}
+
+.pic{
+  border: 10px solid #726a95;
+  border-radius: 5px
+}
